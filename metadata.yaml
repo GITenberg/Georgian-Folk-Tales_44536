@@ -1,0 +1,27 @@
+_repo: Georgian-Folk-Tales_44536
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wardrop, Marjory Scott
+    birthdate: 1869
+    deathdate: 1909
+    gutenberg_agent_id: '42800'
+    url: http://www.gutenberg.org/2009/agents/42800
+covers:
+- cover_type: archival
+  image_path: 44536-h/images/new-cover.jpg
+description: ''
+gutenberg_issued: '2013-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44536'
+  lccn: 01019114
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Tales -- Georgia (Republic)'
+title: Georgian Folk Tales
+url: http://www.gutenberg.org/ebooks/44536
