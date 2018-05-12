@@ -11,6 +11,8 @@ covers:
 - cover_type: archival
   image_path: 44536-h/images/new-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44536#Georgian-Folk-Tales
 gutenberg_issued: '2013-12-28'
 gutenberg_type: Text
 identifiers:
